@@ -1,4 +1,4 @@
-<!-- HEADER BANNER (Using the reliable service verified in your image_f346ea.png) -->
+<!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=200&section=header&text=Keerthana%20G%20🚀&fontSize=45&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
 </p>
@@ -135,12 +135,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keerthana242&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana242&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=keerthana242&theme=tokyonight" width="97%" />
+  <img src="https://img.shields.io/github/followers/keerthana242?label=Followers&style=for-the-badge&color=7AA2F7&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/keerthana242?label=Total%20Stars&style=for-the-badge&color=7AA2F7&logo=github" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/search/keerthana242/keerthana242/code?label=Commits&style=for-the-badge&color=7AA2F7&logo=github" alt="GitHub Commits" />
 </p>
 
 ---
