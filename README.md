@@ -1,4 +1,3 @@
-<!-- HEADER ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Keerthana+G;Computer+Science+Engineer;AI+Enthusiast+🚀;Web+Developer+%7C+Cloud+Learner" alt="Typing SVG" />
 </p>
@@ -33,7 +32,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZreXg3bTN3Y290Ym44bW15MTN5b3Z4dWZ0am10eWZ0bms4Y3ZpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="220px" alt="Coding GIF">
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/src/images/developer.gif" width="220px" alt="Coding GIF">
     </td>
   </tr>
 </table>
@@ -99,10 +98,10 @@
 
 ## 💼 Internship Experience
 
-*   **Artificial Intelligence Intern** | *New Technology Institutions* (Aug 2024)
-    *   Architected modular AI-driven applications and designed real-world problem-solving implementation algorithms.
-*   **UI/UX Design Intern** | *Lamda Tech Softics* (Jun 2025)
-    *   Constructed end-to-end wireframes and high-fidelity mockups for web/mobile apps focused on modern usability guidelines.
+* **Artificial Intelligence Intern** | *New Technology Institutions* (Aug 2024)
+    * Architected modular AI-driven applications and designed real-world problem-solving implementation algorithms.
+* **UI/UX Design Intern** | *Lamda Tech Softics* (Jun 2025)
+    * Constructed end-to-end wireframes and high-fidelity mockups for web/mobile apps focused on modern usability guidelines.
 
 ---
 
@@ -140,13 +139,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthana242&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=keerthana242&theme=tokyonight&hide_border=true" width="97%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gayanvoice/github-profile-readme-capsule-render/master/utils/capsule-render.svg?type=waving&color=7AA2F7&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=100&section=footer" width="100%"/>
 </p>
 
 <p align="center">
