@@ -139,8 +139,6 @@
 
 ## GitHub Dev Workspace & Repository Directory
 
-Instead of third-party analytical charts that can frequently experience connection timeouts, here is a breakdown of my active developer footprint. Explore my public repositories directly via the directory paths outlined below:
-
 | Project Repository | Core Languages & Ecosystem | Primary Architecture Focus | Source Link |
 | :--- | :--- | :--- | :---: |
 | **AI-Crop-Recommendation** | Python, Machine Learning, HTML, CSS| Predictive Dataset Processing & APIs| [Explore Code](https://github.com/keerthana242) |
