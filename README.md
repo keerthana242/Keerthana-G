@@ -137,13 +137,16 @@
 
 ---
 
-## GitHub Analytics
+## GitHub Dev Workspace & Repository Directory
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/keerthana242?label=Followers&style=for-the-badge&color=7AA2F7&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/keerthana242?label=Total%20Stars&style=for-the-badge&color=7AA2F7&logo=github" alt="GitHub Stars" />
-  <img src="https://komarev.com/ghvc/?username=keerthana242&color=7aa2f7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</p>
+Instead of third-party analytical charts that can frequently experience connection timeouts, here is a breakdown of my active developer footprint. Explore my public repositories directly via the directory paths outlined below:
+
+| Project Repository | Core Languages & Ecosystem | Primary Architecture Focus | Source Link |
+| :--- | :--- | :--- | :---: |
+| **AI-Crop-Recommendation** | Python, Machine Learning, HTML, CSS| Predictive Dataset Processing & APIs[cite: 1] | [Explore Code](https://github.com/keerthana242) |
+| **Civic-Ease-Platform** | JavaScript, Python, MySQL, Firebase| Location Mapping & Asynchronous Status Upgrades[cite: 1] | [Explore Code](https://github.com/keerthana242) |
+| **Networking-Architectures** | Cisco Packet Tracer Systems| IP Routing Schema & Firewall Configuration[cite: 1] | [Explore Code](https://github.com/keerthana242) |
+| **Data-Structures-Java** | OpenJDK Java Programming| Algorithmic Structuring & Testing Protocols[cite: 1] | [Explore Code](https://github.com/keerthana242) |
 
 ---
 
