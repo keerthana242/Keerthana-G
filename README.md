@@ -36,9 +36,6 @@
         <li> Areas of core focus: Machine Learning models, Serverless Architecture, and Secure Network Infrastructures.</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/src/images/developer.gif" width="220px" alt="Coding GIF">
-    </td>
   </tr>
 </table>
 
