@@ -143,10 +143,10 @@ Instead of third-party analytical charts that can frequently experience connecti
 
 | Project Repository | Core Languages & Ecosystem | Primary Architecture Focus | Source Link |
 | :--- | :--- | :--- | :---: |
-| **AI-Crop-Recommendation** | Python, Machine Learning, HTML, CSS| Predictive Dataset Processing & APIs[cite: 1] | [Explore Code](https://github.com/keerthana242) |
-| **Civic-Ease-Platform** | JavaScript, Python, MySQL, Firebase| Location Mapping & Asynchronous Status Upgrades[cite: 1] | [Explore Code](https://github.com/keerthana242) |
-| **Networking-Architectures** | Cisco Packet Tracer Systems| IP Routing Schema & Firewall Configuration[cite: 1] | [Explore Code](https://github.com/keerthana242) |
-| **Data-Structures-Java** | OpenJDK Java Programming| Algorithmic Structuring & Testing Protocols[cite: 1] | [Explore Code](https://github.com/keerthana242) |
+| **AI-Crop-Recommendation** | Python, Machine Learning, HTML, CSS| Predictive Dataset Processing & APIs| [Explore Code ](https://github.com/keerthana242) |
+| **Civic-Ease-Platform** | JavaScript, Python, MySQL, Firebase| Location Mapping & Asynchronous Status Upgrades| [Explore Code](https://github.com/keerthana242) |
+| **Networking-Architectures** | Cisco Packet Tracer Systems| IP Routing Schema & Firewall Configuration| [Explore Code](https://github.com/keerthana242) |
+| **Data-Structures-Java** | OpenJDK Java Programming| Algorithmic Structuring & Testing Protocols| [Explore Code](https://github.com/keerthana242) |
 
 ---
 
