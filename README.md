@@ -1,11 +1,8 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7 & height=200&section=header&text=Keerthana%20G%20 &fontSize=45&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
-</p>
+
 
 <p align="center">
-  <strong> B.E. Computer Science and Engineering @ Karpagam Institute of Technology</strong><br>
-  <strong> Smart India Hackathon 2025 Finalist</strong><br>
+  <strong> B.E. Computer Science and Engineering @ Karpagam Institute of Technology</strong>
+  <strong> Smart India Hackathon 2025 Finalist</strong>
   <strong> Tamil Nadu, India</strong>
 </p>
 
