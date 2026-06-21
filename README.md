@@ -1,12 +1,12 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=200&section=header&text=Keerthana%20G%20🚀&fontSize=45&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=200&section=header&text=Keerthana%20G%20 &fontSize=45&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <strong>🎓 B.E. Computer Science and Engineering @ Karpagam Institute of Technology</strong><br>
-  <strong>🏆 Smart India Hackathon 2025 Finalist</strong><br>
-  <strong>📍 Tamil Nadu, India</strong>
+  <strong> B.E. Computer Science and Engineering @ Karpagam Institute of Technology</strong><br>
+  <strong> Smart India Hackathon 2025 Finalist</strong><br>
+  <strong> Tamil Nadu, India</strong>
 </p>
 
 <p align="center">
@@ -20,16 +20,16 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 <table align="center" border="0">
   <tr>
     <td width="60%" valign="top">
       <ul>
-        <li>🌱 Currently deeply exploring <b>Artificial Intelligence, Cloud Computing, and Full-Stack Development</b>.</li>
-        <li>💡 Passionate about building innovative, user-centric solutions that solve real-world problems.</li>
-        <li>🤝 Strong believer in teamwork, leadership, and continuous learning.</li>
-        <li>📚 Interested in AI architectures, Modern Web Technologies, UI/UX Design, and Cloud Environments.</li>
+        <li> Currently deeply exploring <b>Artificial Intelligence, Cloud Computing, and Full-Stack Development</b>.</li>
+        <li> Passionate about building innovative, user-centric solutions that solve real-world problems.</li>
+        <li> Strong believer in teamwork, leadership, and continuous learning.</li>
+        <li> Interested in AI architectures, Modern Web Technologies, UI/UX Design, and Cloud Environments.</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -40,10 +40,10 @@
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <details open>
-<summary><b>💻 Programming Languages</b></summary>
+<summary><b> Programming Languages</b></summary>
 <br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -52,7 +52,7 @@
 </details>
 
 <details open>
-<summary><b>🎨 Frontend & UI/UX Development</b></summary>
+<summary><b> Frontend & UI/UX Development</b></summary>
 <br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -62,7 +62,7 @@
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & Database Technologies</b></summary>
+<summary><b> Cloud & Database Technologies</b></summary>
 <br/>
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -71,7 +71,7 @@
 </details>
 
 <details open>
-<summary><b>🔧 Tools, Frameworks & Soft Skills</b></summary>
+<summary><b> Tools, Frameworks & Soft Skills</b></summary>
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -83,21 +83,21 @@
 
 ---
 
-## 🚀 Key Projects
+## Key Projects
 
-### 🌾 AI-Based Crop Recommendation System (SIH 2025)
+### AI-Based Crop Recommendation System (SIH 2025)
 > An AI-powered decision-making platform leveraging soil nutrients, real-time weather analytics, humidity, and rainfall to provide farmers with predictive crop intelligence.
 - **Impact:** Created optimized UI workflows and engineered cross-platform compatibility for local farmers.
 - **Tech Stack:** `Python`, `Machine Learning`, `HTML`, `CSS`, `Firebase`, `Weather API`
 
-### 🏙️ CIVIC EASE – Smart Civic Issue Reporting & Resolution
+### CIVIC EASE – Smart Civic Issue Reporting & Resolution
 > A comprehensive platform allowing citizens to report local civic issues via text, image, and voice inputs, mapping them with automated tracking.
 - **Features:** Geolocation mapping, real-time complaint status trackers, and automated agency notification systems.
 - **Tech Stack:** `Python`, `HTML5`, `CSS3`, `JavaScript`, `MySQL`, `Firebase`, `REST APIs`, `Google Maps API`
 
 ---
 
-## 💼 Internship Experience
+## Internship Experience
 
 * **Artificial Intelligence Intern** | *New Technology Institutions* (Aug 2024)
     * Architected modular AI-driven applications and designed real-world problem-solving implementation algorithms.
@@ -106,21 +106,21 @@
 
 ---
 
-## 🏆 Achievements & Certifications
+## Achievements & Certifications
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🏅 Honors
-- 🥇 **Smart India Hackathon 2025 Finalist** – IIT Dhanbad
-- 🏅 **Participant** – 21st DSP Creative Design Competition (Taiwan Hackathon)
-- 🎖️ **Workshop** – Advanced Web Development Technologies
+### Honors
+- **Smart India Hackathon 2025 Finalist** – IIT Dhanbad
+- **Participant** – 21st DSP Creative Design Competition (Taiwan Hackathon)
+- **Workshop** – Advanced Web Development Technologies
 
 </td>
 <td width="50%" valign="top">
 
-### 📜 Core Certifications
+### Core Certifications
 - **Cloud:** Microsoft Azure Fundamentals (AZ-900) | AWS Foundations
 - **NPTEL:** DSA using Java | Software Testing | Food Science
 - **Cisco:** Networking Essentials | Network Basics | Addressing & Troubleshooting | Devices & Initial Configuration
@@ -132,7 +132,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/keerthana242?label=Followers&style=for-the-badge&color=7AA2F7&logo=github" alt="GitHub Followers" />
@@ -147,5 +147,5 @@
 </p>
 
 <p align="center">
-  ⭐ <b>"Learning, Building, and Innovating Every Day"</b> ⭐
+   <b>"Learning, Building, and Innovating Every Day"</b> 
 </p>
