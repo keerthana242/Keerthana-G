@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Keerthana G</h1>
+<h1 align="center">Hi, I'm Keerthana G</h1>
 <h3 align="center">Computer Science Student | Software Testing & Automation | Cloud Enthusiast</h3>
 
 <p align="center">
@@ -30,8 +30,8 @@
 
 ---
 
-### Tech Stack & Skills
- 
+### 🛠️ Tech Stack & Skills
+
 **Programming Languages**
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
 **Automation Testing**
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
@@ -47,12 +48,14 @@
   <img src="https://img.shields.io/badge/Test%20Case%20Design-333333?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Defect%20Reporting-333333?style=for-the-badge"/>
 </p>
+
 **Networking & Security**
 <p>
   <img src="https://img.shields.io/badge/IP%20Routing-4B8BBE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Firewalls-4B8BBE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Network%20Protocols-4B8BBE?style=for-the-badge"/>
 </p>
+
 **Tools & Operating Systems**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -62,23 +65,27 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
+
 **Cloud Computing**
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/EC2%20%7C%20Lambda%20%7C%20API%20Gateway%20%7C%20CLI-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
+
 **Frontend & Web**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF61F6?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+
 **Backend & Databases**
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
+
 **Soft Skills**
 <p>
   <img src="https://img.shields.io/badge/NSS%20Camp%20Member-6c5ce7?style=for-the-badge"/>
@@ -86,6 +93,7 @@
   <img src="https://img.shields.io/badge/Time%20Management-6c5ce7?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Adaptability-6c5ce7?style=for-the-badge"/>
 </p>
+
 ---
 
 ### Certifications
@@ -138,9 +146,9 @@ Check out my pinned repositories below for live code and demos!
 
 ### Achievements
 
-- 🥇 **Finalist — Smart India Hackathon 2025**, IIT Dhanbad
-- 🎖️ **Taiwan Hackathon** — Certificate of Participation, 21st DSP Creative Design Competition
-- 🛠️ **Workshop on Web Development**
+- **Finalist — Smart India Hackathon 2025**, IIT Dhanbad
+- **Taiwan Hackathon** — Certificate of Participation, 21st DSP Creative Design Competition
+- **Workshop on Web Development**
 
 ---
 
@@ -152,7 +160,6 @@ Check out my pinned repositories below for live code and demos!
 | **Lamda Tech Softics** | Designed user-friendly UI/UX interfaces for web and mobile applications | Jun 2025 |
 
 ---
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=120&section=footer"/>
 </p>
