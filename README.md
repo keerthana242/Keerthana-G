@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Keerthana G</h1>
+<h1 align="center">Hi , I'm Keerthana G</h1>
 <h3 align="center">Computer Science Student | Software Testing & Automation | Cloud Enthusiast</h3>
 
 <p align="center">
@@ -158,33 +158,6 @@ Check out my pinned repositories below for live code and demos!
 |---|---|---|
 | **New Technology Institutions** | Developed AI-based applications; gained practical experience in AI technologies | Aug 2024 |
 | **Lamda Tech Softics** | Designed user-friendly UI/UX interfaces for web and mobile applications | Jun 2025 |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true" width="98%" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" width="98%"/>
-</p>
-
-> ℹ️ To make the snake animation above work, add the **[platane/snk](https://github.com/Platane/snk)** GitHub Action to your profile repo — it auto-generates that SVG daily.
 
 ---
 
