@@ -20,17 +20,17 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🎓 B.E. Computer Science and Engineering at **Karpagam Institute of Technology, Coimbatore** (2023 – 2027) — CGPA **8.77**
-- 🌱 Skilled in **Programming, Software Testing, Cloud Technologies, and Databases**
-- 🏆 **Finalist — Smart India Hackathon 2025**, IIT Dhanbad
-- 💬 Strong in **leadership, collaboration, and communication**, with hands-on internship experience
-- ⚡ Fast learner, always ready to deliver innovative solutions
+- B.E. Computer Science and Engineering at **Karpagam Institute of Technology, Coimbatore** (2023 – 2027) — CGPA **8.77**
+- Skilled in **Programming, Software Testing, Cloud Technologies, and Databases**
+- **Finalist — Smart India Hackathon 2025**, IIT Dhanbad
+- Strong in **leadership, collaboration, and communication**, with hands-on internship experience
+- Fast learner, always ready to deliver innovative solutions
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
  
 **Programming Languages**
 <p>
@@ -88,30 +88,30 @@
 </p>
 ---
 
-### 📜 Certifications
+### Certifications
 
-- 🎓 **NPTEL** — Data Structures and Algorithms using Java, Software Testing, Food Science & Technology
-- ☁️ **Microsoft Azure Fundamentals (AZ-900)**
-- ☁️ **AWS Foundations**
-- 📊 **Deloitte** — Data Analytics Job Simulation
-- 🌐 **CISCO** — Networking Essentials, Basics, Addressing & Troubleshooting, Devices & Initial Configuration
+- **NPTEL** — Data Structures and Algorithms using Java, Software Testing, Food Science & Technology
+- **Microsoft Azure Fundamentals (AZ-900)**
+- **AWS Foundations**
+- **Deloitte** — Data Analytics Job Simulation
+- **CISCO** — Networking Essentials, Basics, Addressing & Troubleshooting, Devices & Initial Configuration
 
 ---
 
-### 💼 Projects
+### Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🧪 Tichi Test Automation Framework**
+**Tichi Test Automation Framework**
 Selenium automation framework for Login & Signup modules using Python and the Page Object Model. Automated **17 functional test cases** covering validation, authentication, and UI scenarios. Generated HTML test reports and documented defects.
 `Python` `Selenium` `Pytest`
 
 </td>
 <td width="50%" valign="top">
 
-**🌾 AI-Based Crop Recommendation System (SIH)**
+**AI-Based Crop Recommendation System (SIH)**
 AI-powered system analyzing soil nutrients, weather, temperature, humidity, and rainfall to recommend crops. Built a user-friendly interface for farmers to access real-time recommendations and guidance.
 `Python` `Machine Learning` `HTML` `CSS` `Firebase` `Weather API`
 
@@ -120,14 +120,14 @@ AI-powered system analyzing soil nutrients, weather, temperature, humidity, and 
 <tr>
 <td width="50%" valign="top">
 
-**🏙️ CIVIC EASE — Smart Civic Issue Reporting & Resolution**
+**CIVIC EASE — Smart Civic Issue Reporting & Resolution**
 Platform for citizens to report civic issues via image, text, and voice, with real-time complaint tracking, status updates, and notifications. Intuitive interface for complaint registration and location tracking.
 `Python` `HTML` `CSS` `JavaScript` `MySQL` `Firebase` `REST API` `Google Maps API`
 
 </td>
 <td width="50%" valign="top">
 
-**🚀 More projects coming soon...**
+**More projects coming soon...**
 Check out my pinned repositories below for live code and demos!
 
 </td>
@@ -136,7 +136,7 @@ Check out my pinned repositories below for live code and demos!
 
 ---
 
-### 🏆 Achievements
+### Achievements
 
 - 🥇 **Finalist — Smart India Hackathon 2025**, IIT Dhanbad
 - 🎖️ **Taiwan Hackathon** — Certificate of Participation, 21st DSP Creative Design Competition
@@ -144,7 +144,7 @@ Check out my pinned repositories below for live code and demos!
 
 ---
 
-### 💻 Experience
+### Experience
 
 | Organization | Role Highlights | Duration |
 |---|---|---|
