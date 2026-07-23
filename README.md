@@ -1,86 +1,90 @@
-<h1 align="center">Keerthana G</h1>
-<h3 align="center">Computer Science Student · Software Testing & Automation · Cloud Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2E9EF7&center=true&vCenter=true&width=560&lines=Software+Testing+%7C+Selenium+%7C+Python;Cloud+Computing+%7C+AWS+%2F+Azure;Smart+India+Hackathon+2025+Finalist" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-24292F?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-  <a href="mailto:ggkeerthana8@gmail.com"><img src="https://img.shields.io/badge/Gmail-24292F?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F5F5F5,100:E8E8E8&height=90&section=header&text=KEERTHANA%20G&fontSize=32&fontColor=24292F&fontAlignY=55&desc=Computer%20Science%20Student%20%C2%B7%20Software%20Testing%20%26%20Automation%20%C2%B7%20Cloud&descSize=14&descAlignY=75&descColor=24292F" width="100%"/>
 
 <br/>
 
-## About
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-24292F?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:ggkeerthana8@gmail.com"><img src="https://img.shields.io/badge/Gmail-24292F?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+### About
 
 B.E. Computer Science and Engineering student at **Karpagam Institute of Technology, Coimbatore** (2023–2027), CGPA **8.77**. Finalist at **Smart India Hackathon 2025** (IIT Dhanbad), with internship experience across AI and UI/UX, and a strong foundation in software testing, cloud computing, and databases.
 
 <br/>
 
-## Tech Stack
+### Tech Stack
 
-**Languages & Databases**
-
-<img src="https://skillicons.dev/icons?i=c,py,java,mysql&theme=light" />
-
-**Testing & QA**
-
-<img src="https://skillicons.dev/icons?i=selenium&theme=light" />
-<br/>
-<sub>Pytest · Page Object Model · Test Case Design · Defect Reporting</sub>
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,azure,git,github&theme=light" />
-
-**Web & Design**
-
-<img src="https://skillicons.dev/icons?i=html,figma,firebase&theme=light" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=vscode,linux,canva&theme=light" />
-<br/>
-<sub>Cisco Packet Tracer · IP Routing · Firewalls · Network Protocols · DBMS</sub>
-
-**Core Strengths**
-
-<sub>Team Leadership · Time Management · Adaptability · NSS Camp Member</sub>
-
-<br/>
-
-## Certifications
-
-| Provider | Certification |
-|---|---|
-| NPTEL | Data Structures and Algorithms using Java · Software Testing · Food Science & Technology |
-| Microsoft | Azure Fundamentals (AZ-900) |
-| AWS | AWS Foundations |
-| Deloitte | Data Analytics Job Simulation |
-| CISCO | Networking Essentials · Basics · Addressing & Troubleshooting · Devices & Initial Configuration |
+<table>
+<tr>
+<td width="30%"><b>Languages & Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=c,py,java,mysql&theme=light" /></td>
+</tr>
+<tr>
+<td><b>Testing & QA</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=selenium&theme=light" /><br/>
+<sub>Pytest &nbsp;·&nbsp; Page Object Model &nbsp;·&nbsp; Test Case Design &nbsp;·&nbsp; Defect Reporting</sub>
+</td>
+</tr>
+<tr>
+<td><b>Cloud & DevOps</b></td>
+<td><img src="https://skillicons.dev/icons?i=aws,azure,git,github&theme=light" /></td>
+</tr>
+<tr>
+<td><b>Web & Design</b></td>
+<td><img src="https://skillicons.dev/icons?i=html,figma,firebase&theme=light" /></td>
+</tr>
+<tr>
+<td><b>Tools & Platforms</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=vscode,linux,canva&theme=light" /><br/>
+<sub>Cisco Packet Tracer &nbsp;·&nbsp; IP Routing &nbsp;·&nbsp; Firewalls &nbsp;·&nbsp; Network Protocols &nbsp;·&nbsp; DBMS</sub>
+</td>
+</tr>
+<tr>
+<td><b>Core Strengths</b></td>
+<td><sub>Team Leadership &nbsp;·&nbsp; Time Management &nbsp;·&nbsp; Adaptability &nbsp;·&nbsp; NSS Camp Member</sub></td>
+</tr>
+</table>
 
 <br/>
 
-## Projects
+### Certifications
+
+<table>
+<tr><td width="22%"><b>NPTEL</b></td><td>Data Structures and Algorithms using Java · Software Testing · Food Science & Technology</td></tr>
+<tr><td><b>Microsoft</b></td><td>Azure Fundamentals (AZ-900)</td></tr>
+<tr><td><b>AWS</b></td><td>AWS Foundations</td></tr>
+<tr><td><b>Deloitte</b></td><td>Data Analytics Job Simulation</td></tr>
+<tr><td><b>CISCO</b></td><td>Networking Essentials · Basics · Addressing & Troubleshooting · Devices & Initial Configuration</td></tr>
+</table>
+
+<br/>
+
+### Projects
 
 **Tichi Test Automation Framework**
 Selenium automation framework for the Login and Signup modules using Python and the Page Object Model. Automated 17 functional test cases covering validation, authentication, and UI scenarios, with generated HTML test reports and documented defects.
-`Python` `Selenium` `Pytest`
+<sub>`Python` `Selenium` `Pytest`</sub>
 
 **AI-Based Crop Recommendation System — Smart India Hackathon**
 AI-powered recommendation system analyzing soil nutrients, weather, temperature, humidity, and rainfall, with a real-time interface for farmers to access crop and farming guidance.
-`Python` `Machine Learning` `HTML` `CSS` `Firebase` `Weather API`
+<sub>`Python` `Machine Learning` `HTML` `CSS` `Firebase` `Weather API`</sub>
 
 **Civic Ease — Smart Civic Issue Reporting & Resolution**
 Platform enabling citizens to report civic issues via image, text, and voice, with real-time complaint tracking, status updates, and notifications through an intuitive, responsive interface.
-`Python` `HTML` `CSS` `JavaScript` `MySQL` `Firebase` `REST API` `Google Maps API`
+<sub>`Python` `HTML` `CSS` `JavaScript` `MySQL` `Firebase` `REST API` `Google Maps API`</sub>
 
 <br/>
 
-## Achievements
+### Achievements
 
 - Finalist — Smart India Hackathon 2025, IIT Dhanbad
 - Taiwan Hackathon — Certificate of Participation, 21st DSP Creative Design Competition
@@ -88,24 +92,16 @@ Platform enabling citizens to report civic issues via image, text, and voice, wi
 
 <br/>
 
-## Experience
+### Experience
 
-| Organization | Role | Duration |
-|---|---|---|
-| New Technology Institutions | Developed AI-based applications; gained practical experience in AI technologies | Aug 2024 |
-| Lamda Tech Softics | Designed user-friendly UI/UX interfaces for web and mobile applications | Jun 2025 |
-
-<br/>
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=default&hide_border=true" width="48%" />
-</p>
+<table>
+<tr><td width="26%"><b>New Technology Institutions</b><br/><sub>Aug 2024</sub></td><td>Developed AI-based applications; gained practical experience in AI technologies.</td></tr>
+<tr><td><b>Lamda Tech Softics</b><br/><sub>Jun 2025</sub></td><td>Designed user-friendly UI/UX interfaces for web and mobile applications.</td></tr>
+</table>
 
 <br/>
 
-<p align="center">
-  <sub>Thanks for visiting — let's connect.</sub>
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F5F5F5,100:E8E8E8&height=60&section=footer" width="100%"/>
+<sub>Thanks for visiting — let's connect.</sub>
+</div>
