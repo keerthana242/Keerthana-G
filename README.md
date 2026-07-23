@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F5F5F5,100:E8E8E8&height=90&section=header&text=KEERTHANA%20G&fontSize=32&fontColor=24292F&fontAlignY=55&desc=Computer%20Science%20Student%20%C2%B7%20Software%20Testing%20%26%20Automation%20%C2%B7%20Cloud&descSize=14&descAlignY=75&descColor=24292F" width="100%"/>
+<h1>Keerthana G</h1>
+<h3>Computer Science Student &nbsp;·&nbsp; Software Testing & Automation &nbsp;·&nbsp; Cloud Enthusiast</h3>
 
 <br/>
 
@@ -101,7 +102,8 @@ Platform enabling citizens to report civic issues via image, text, and voice, wi
 
 <br/>
 
+---
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F5F5F5,100:E8E8E8&height=60&section=footer" width="100%"/>
 <sub>Thanks for visiting — let's connect.</sub>
 </div>
