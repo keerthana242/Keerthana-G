@@ -97,6 +97,15 @@ Platform enabling citizens to report civic issues via image, text, and voice, wi
 
 <br/>
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=default&hide_border=true" width="48%" />
+</p>
+
+<br/>
+
 <p align="center">
   <sub>Thanks for visiting — let's connect.</sub>
 </p>
