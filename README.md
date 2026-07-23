@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=Keerthana%20G&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Testing%20%26%20Automation%20%7C%20Cloud&descAlignY=58&descSize=16&descColor=ffffff" width="100%"/>
+<h1>Keerthana G</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2E9EF7&center=true&vCenter=true&width=560&lines=Computer+Science+Student;Software+Testing+%26+Automation;Cloud+Computing+%7C+AWS+%2F+Azure;Smart+India+Hackathon+2025+Finalist" alt="Typing SVG" />
+
+<br/><br/>
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -105,6 +109,6 @@ Platform enabling citizens to report civic issues via image, text, and voice, wi
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" width="100%"/>
+---
 
 <div align="center"><sub>Thanks for visiting — let's connect.</sub></div>
