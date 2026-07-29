@@ -21,13 +21,13 @@
 
 <br/>
 
-## 📌 About
+## About
 
 B.E. Computer Science and Engineering student at **Karpagam Institute of Technology, Coimbatore** (2023–2027), CGPA **8.77**. Finalist at **Smart India Hackathon 2025** (IIT Dhanbad), with internship experience across AI and UI/UX, and a strong foundation in software testing, cloud computing, and databases.
 
 <br/>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <table width="100%">
 <tr>
@@ -64,7 +64,7 @@ B.E. Computer Science and Engineering student at **Karpagam Institute of Technol
 
 <br/>
 
-## 🎓 Certifications
+## Certifications
 
 <table width="100%">
 <tr><td width="20%"><b>NPTEL</b></td><td>Data Structures and Algorithms using Java · Software Testing · Food Science & Technology</td></tr>
@@ -76,7 +76,7 @@ B.E. Computer Science and Engineering student at **Karpagam Institute of Technol
 
 <br/>
 
-## 💼 Projects
+## Projects
 
 **Tichi Test Automation Framework**
 Selenium automation framework for the Login and Signup modules using Python and the Page Object Model. Automated 17 functional test cases covering validation, authentication, and UI scenarios, with generated HTML test reports and documented defects.
@@ -92,7 +92,7 @@ Platform enabling citizens to report civic issues via image, text, and voice, wi
 
 <br/>
 
-## 🏆 Achievements
+## Achievements
 
 - Finalist — Smart India Hackathon 2025, IIT Dhanbad
 - Taiwan Hackathon — Certificate of Participation, 21st DSP Creative Design Competition
@@ -100,7 +100,7 @@ Platform enabling citizens to report civic issues via image, text, and voice, wi
 
 <br/>
 
-## 🏢 Experience
+## Experience
 
 <table width="100%">
 <tr><td width="26%"><b>New Technology Institutions</b><br/><sub>Aug 2024</sub></td><td>Developed AI-based applications; gained practical experience in AI technologies.</td></tr>
