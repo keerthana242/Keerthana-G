@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Keerthana G</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1CB5E0,100:000851&height=200&section=header&text=Keerthana%20G&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2E9EF7&center=true&vCenter=true&width=560&lines=Computer+Science+Student;Software+Testing+%26+Automation;Cloud+Computing+%7C+AWS+%2F+Azure;Smart+India+Hackathon+2025+Finalist" alt="Typing SVG" />
 
@@ -109,6 +109,6 @@ Platform enabling citizens to report civic issues via image, text, and voice, wi
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1CB5E0,100:000851&height=150&section=footer" width="100%"/>
 
 <div align="center"><sub>Thanks for visiting — let's connect.</sub></div>
